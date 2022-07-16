@@ -1,0 +1,49 @@
+html,
+body {
+    box-sizing: border-box;
+}
+
+
+
+
+div {
+    color: #ee00ff6b
+}
+
+#div1 {
+    color: green
+}
+
+#div2 {
+    color: rgb(83, 36, 201)
+}
+
+
+#unorder-list {
+    color: rgb(4, 237, 159)
+}
+
+#order-list {
+    color: #ee00ff7f
+}
+
+
+.large-font {
+    font-size: 2rem;
+}
+
+.deep-background {
+    background-color: black;
+
+
+    font-size: 4rem;
+}
+
+.version {
+    background-color: rgb(9, 109, 196);
+    color: antiquewhite;
+    padding: 2px 10px;
+    border-radius: 10px;
+    border: 3px dashed yellow;
+
+}
